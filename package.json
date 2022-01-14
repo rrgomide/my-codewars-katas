@@ -1,6 +1,6 @@
 {
   "name": "my-codewars-katas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Codewars katas implemented with JavaScript by Raphael Gomide",
   "main": "index.js",
   "scripts": {
