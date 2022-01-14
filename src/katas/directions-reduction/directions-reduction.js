@@ -27,4 +27,4 @@ function dirReduc(arr) {
   return path
 }
 
-module.exports =
+module.exports = { dirReduc }

@@ -1,15 +1,19 @@
 {
   "name": "my-codewars-katas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Codewars katas implemented with JavaScript by Raphael Gomide",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watchAll"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "codewars",
+    "kata",
+    "katas"
+  ],
+  "author": "Raphael Gomide",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^27.4.0",
     "jest": "^27.4.7",

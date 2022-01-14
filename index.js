@@ -1,1 +1,1 @@
-console.log('Check the "src" folder!')
+console.log('Please, check out the "src" folder!')
